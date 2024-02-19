@@ -1,0 +1,3 @@
+C:/Users/rober/2023_eeyre4/worksheet4/hellocmake/build/CMakeFiles/hello.dir
+C:/Users/rober/2023_eeyre4/worksheet4/hellocmake/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/rober/2023_eeyre4/worksheet4/hellocmake/build/CMakeFiles/ZERO_CHECK.dir
