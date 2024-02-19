@@ -1,7 +1,10 @@
-// begin − adder.cpp
 #include "adder.h"
 
-int add(int a, int b) {
+#ifdef maths_EXPORTS
+// Define the add function only when building the DLL
+MATHSLIB_API int add(int a, int b)
+{
     return a + b;
 }
-// end − adder.cpp
+#endif
+
