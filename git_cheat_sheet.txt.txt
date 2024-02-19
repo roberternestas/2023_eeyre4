@@ -1,0 +1,5 @@
+- `git show`: Displays information about a specific commit, including the changes introduced.
+- `git log`: Shows a list of commits in reverse chronological order, providing information such as commit hashes, authors, dates, and commit messages.
+- `git checkout`: Allows switching between branches or restoring files to a specific state from a commit or branch.
+- `git init`: Initializes a new Git repository in the current directory, creating the necessary data structures and configuration files.
+- `git reset`: Moves the HEAD and current branch pointer to a specified commit, allowing you to reset the state of the repository.
