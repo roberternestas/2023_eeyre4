@@ -1,0 +1,4 @@
+C:/Users/rober/2023_eeyre4/worksheet4/calc/build/CMakeFiles/maths.dir
+C:/Users/rober/2023_eeyre4/worksheet4/calc/build/CMakeFiles/calc.dir
+C:/Users/rober/2023_eeyre4/worksheet4/calc/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/rober/2023_eeyre4/worksheet4/calc/build/CMakeFiles/ZERO_CHECK.dir
